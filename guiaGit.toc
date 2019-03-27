@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n a Git}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}\IeC {\textquestiondown }Qu\IeC {\'e} es Git?}{3}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}Definiciones que nos pueden ayudar}{3}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}Idea general del funcionamiento}{3}{subsubsection.1.1.2}
+\contentsline {subsection}{\numberline {1.2}Funcionamiento de Git}{3}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Working Directory}{3}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Staging Area}{4}{subsubsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.3}Repository}{4}{subsubsection.1.2.3}
+\contentsline {section}{\numberline {2}Instalaci\IeC {\'o}n de Git}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}Configuraci\IeC {\'o}n Opcional}{5}{subsection.2.1}
+\contentsline {section}{\numberline {3}Crear un repositorio}{6}{section.3}
+\contentsline {subsection}{\numberline {3.1}Archivo README}{6}{subsection.3.1}
+\contentsline {section}{\numberline {4}Add y Commit}{7}{section.4}
+\contentsline {section}{\numberline {5}Branches y Merge}{7}{section.5}
+\contentsline {section}{\numberline {6}Extra}{8}{section.6}
+\contentsline {subsection}{\numberline {6.1}Comandos Extra}{8}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {6.1.1}Help}{8}{subsubsection.6.1.1}
+\contentsline {subsubsection}{\numberline {6.1.2}Stashing}{8}{subsubsection.6.1.2}
+\contentsline {subsection}{\numberline {6.2}Informaci\IeC {\'o}n de Git - Bibliograf\IeC {\'\i }a}{9}{subsection.6.2}
+\contentsline {section}{\numberline {7}Repositorios con GitHub}{10}{section.7}
+\contentsline {subsection}{\numberline {7.1}\IeC {\textquestiondown }Git grupal?}{10}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Cuenta de GitHub}{10}{subsection.7.2}
+\contentsline {section}{\numberline {8}Fork y Merge}{11}{section.8}
+\contentsline {section}{\numberline {9}Pull Request}{12}{section.9}
+\contentsline {section}{\numberline {10}Control de versiones Local}{12}{section.10}

@@ -1,0 +1,25 @@
+\BOOKMARK [1][-]{section.1}{Introducci\363n a Git}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{\277Qu\351 es Git?}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.1.1}{Definiciones que nos pueden ayudar}{subsection.1.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.1.2}{Idea general del funcionamiento}{subsection.1.1}% 4
+\BOOKMARK [2][-]{subsection.1.2}{Funcionamiento de Git}{section.1}% 5
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Working Directory}{subsection.1.2}% 6
+\BOOKMARK [3][-]{subsubsection.1.2.2}{Staging Area}{subsection.1.2}% 7
+\BOOKMARK [3][-]{subsubsection.1.2.3}{Repository}{subsection.1.2}% 8
+\BOOKMARK [1][-]{section.2}{Instalaci\363n de Git}{}% 9
+\BOOKMARK [2][-]{subsection.2.1}{Configuraci\363n Opcional}{section.2}% 10
+\BOOKMARK [1][-]{section.3}{Crear un repositorio}{}% 11
+\BOOKMARK [2][-]{subsection.3.1}{Archivo README}{section.3}% 12
+\BOOKMARK [1][-]{section.4}{Add y Commit}{}% 13
+\BOOKMARK [1][-]{section.5}{Branches y Merge}{}% 14
+\BOOKMARK [1][-]{section.6}{Extra}{}% 15
+\BOOKMARK [2][-]{subsection.6.1}{Comandos Extra}{section.6}% 16
+\BOOKMARK [3][-]{subsubsection.6.1.1}{Help}{subsection.6.1}% 17
+\BOOKMARK [3][-]{subsubsection.6.1.2}{Stashing}{subsection.6.1}% 18
+\BOOKMARK [2][-]{subsection.6.2}{Informaci\363n de Git - Bibliograf\355a}{section.6}% 19
+\BOOKMARK [1][-]{section.7}{Repositorios con GitHub}{}% 20
+\BOOKMARK [2][-]{subsection.7.1}{\277Git grupal?}{section.7}% 21
+\BOOKMARK [2][-]{subsection.7.2}{Cuenta de GitHub}{section.7}% 22
+\BOOKMARK [1][-]{section.8}{Fork y Merge}{}% 23
+\BOOKMARK [1][-]{section.9}{Pull Request}{}% 24
+\BOOKMARK [1][-]{section.10}{Control de versiones Local}{}% 25
